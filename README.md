@@ -49,5 +49,6 @@ L'ispirazione per il progetto e l'idea originaria dell'utilizzo del tool Microso
 
 Questa applicazione viene fornita in modo del tutto **gratuito** alla community.
 
-1. **Open Source e modifiche:** sei libero di utilizzare, ispezionare, modificare e perfezionare il codice sorgente di questa applicazione secondo le tue necessità, a patto di citare l'autore, come da Licenza **Creative Commons Attribution 4.0 International (CC BY 4.0)**
-2. **Esclusione di responsabilità:** il software è fornito "così com'è" (As Is), senza garanzie di alcun tipo. L'autore (Marco Tonini) declina ogni responsabilità per eventuali malfunzionamenti, perdita di dati, uso improprio o danni arrecati al computer dell'utente derivanti dall'utilizzo di questo script. Usalo a tua discrezione.
+1. **Open Source e modifiche**: sei libero di utilizzare, ispezionare, modificare e perfezionare il codice sorgente di questa applicazione secondo le tue necessità, a patto di citare l'autore, come da Licenza **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+2. **Uso non commerciale**: è severamente vietato utilizzare questa applicazione, o parti del suo codice, per scopi commerciali, rivenderla, monetizzarla o inserirla in prodotti a pagamento.
+3. **Esclusione di responsabilità**: il software è fornito "così com'è" (As Is), senza garanzie di alcun tipo. L'autore (Marco Tonini) declina ogni responsabilità per eventuali malfunzionamenti, perdita di dati, uso improprio o danni arrecati al computer dell'utente derivanti dall'utilizzo di questo script. Usalo a tua discrezione.
