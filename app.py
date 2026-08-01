@@ -139,7 +139,7 @@ st.write("") # Spazio vuoto
 st.markdown("""
 <div style="text-align: center; font-size: 0.75rem; color: #6c757d; line-height: 1.3; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #e6e6e6;">
     <p style="margin: 0; padding: 2px 0;">© 2026 <strong>Marco Tonini</strong> | Idea originale: <strong>Ing. Antonio Guadagno</strong></p>
-    <p style="margin: 0; padding: 2px 0;">Distribuito con licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank" style="color: #6c757d; text-decoration: underline;">Creative Commons Attribution 4.0 International (CC BY 4.0)</a>. Sei libero di condividere e modificare l'app, a patto di citare l'autore.</p>
+    <p style="margin: 0; padding: 2px 0;">Distribuito con licenza <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" style="color: #6c757d; text-decoration: underline;">Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</a>. Sei libero di condividere e modificare l'app, a patto di citare l'autore.</p>
     <p style="margin: 0; padding: 2px 0;">⚠️ <em>Software fornito gratuitamente 'così com'è'. L'autore declina ogni responsabilità per uso improprio o eventuali danni.</em></p>
 </div>
 """, unsafe_allow_html=True)
