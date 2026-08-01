@@ -7,7 +7,7 @@ Essendo pensata per la privacy e la sicurezza, l'applicazione funziona **100% of
 ## Funzionalità principali
 
 * **Area Upload (powered by MarkItDown)**: carica i tuoi documenti (.docx, .xlsx, .pptx, .pdf, ecc.) per una rapida conversione in Markdown. Ideale per i file pesanti e complessi.
-* **Area Copia/incolla (powered by Quill & Markdownify)**: un editor Rich Text per incollare al volo frammenti dal web mantenendo la formattazione visiva (grassetti, elenchi). Il testo viene convertito istantaneamente e in modo chirurgico.
+* **Area Copia/incolla (powered by Quill & Markdownify)**: un editor Rich Text per incollare - e modificare - al volo frammenti dal web mantenendo la formattazione visiva (grassetti, elenchi). Il testo viene convertito istantaneamente e in modo chirurgico.
 * **Anteprima in tempo reale**: visualizza il risultato renderizzato.
 * **Azioni Rapide**: copia negli appunti con un clic o scarica il file `.md`.
 * **Visualizza il codice Markdown grezzo**: visualizza il Markdown grezzo, e ti permette di copiarlo manualmente e di incollarlo direttamente dove vuoi. 
