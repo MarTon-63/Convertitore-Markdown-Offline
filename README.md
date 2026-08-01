@@ -12,7 +12,7 @@ Essendo pensata per la privacy e la sicurezza, l'applicazione funziona **100% of
 * **Azioni Rapide**: copia negli appunti con un clic o scarica il file `.md`.
 * **Visualizza il codice Markdown grezzo**: visualizza il Markdown grezzo e copia il testo anche da qui per incollarlo direttamente dove vuoi. 
 
-## Come Avviare l'Applicazione
+## Come avviare l'applicazione
 
 Sono stati predisposti degli script automatici che gestiscono l'intero processo di setup senza bisogno di inserire comandi manuali. 
 Alla prima esecuzione, il sistema creerà automaticamente un ambiente virtuale isolato (`venv`) e installerà le librerie necessarie (richiede una connessione internet solo la primissima volta). 
