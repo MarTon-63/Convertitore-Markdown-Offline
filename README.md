@@ -35,8 +35,8 @@ Il tuo browser si aprirà in automatico (di default all'indirizzo `http://localh
 
 1. Assicurati di avere Python 3 installato sul tuo Mac.
 2. All'interno della cartella appena estratta, individua il file `run_mac.command`.
-3. Apri il Terminale, scrivi `chmod +x ` (con lo spazio finale), trascina il file `run_mac.command` nel Terminale e premi Invio. (Questo serve solo la prima volta per concedere i permessi di sicurezza di Apple al file).
-4. Fai doppio clic sul file `run_mac.command`, si aprirà il Terminale: attendi che il sistema scarichi le librerie necessarie e crei in automatico l'ambiente isolato (la cartella `venv`). Questa operazione può richiedere qualche minuto, ma avviene solo la primissima volta.
+3. Apri il Terminale, scrivi `chmod +x ` (con lo spazio finale), trascina il file `run_mac.command` nel Terminale e premi Invio. Questo serve solo la prima volta per dare i permessi di esecuzione. (Una volta premuto Invio, puoi tranquillamente chiudere questa finestra del Terminale).
+4. Torna nella tua cartella e fai doppio clic sul file `run_mac.command`. Il Mac aprirà automaticamente una nuova finestra del Terminale: attendi che il sistema scarichi le librerie necessarie e crei in automatico l'ambiente isolato (la cartella `venv`). Questa operazione può richiedere qualche minuto, ma avviene solo la primissima volta.
 5. Al termine del processo, l'applicazione si aprirà da sola nel tuo browser. Da questo momento in poi, le volte successive ti basterà fare doppio clic sul file `run_mac.command` e l'avvio sarà quasi istantaneo.
 
 ## Crediti e Autore
