@@ -1,4 +1,4 @@
-# Markdown Converter Offline 🔄
+# MARKDOWN CONVERTER OFFLINE 🔄
 
 Un'applicazione web leggera, moderna e locale per convertire file (Word, Excel, PDF, PowerPoint, ecc.) e testo in Markdown, con un'architettura ibrida ottimizzata.
 
