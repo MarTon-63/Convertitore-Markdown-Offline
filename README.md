@@ -10,7 +10,7 @@ Essendo pensata per la privacy e la sicurezza, l'applicazione funziona **100% of
 * **Area Copia/incolla (powered by Quill & Markdownify)**: un editor Rich Text per incollare al volo frammenti dal web mantenendo la formattazione visiva (grassetti, elenchi). Il testo viene convertito istantaneamente e in modo chirurgico.
 * **Anteprima in tempo reale**: visualizza il risultato renderizzato.
 * **Azioni Rapide**: copia negli appunti con un clic o scarica il file `.md`.
-* **Visualizza il codice Markdown grezzo**: visualizza il Markdown grezzo e copia il testo anche da qui per incollarlo direttamente dove vuoi. 
+* **Visualizza il codice Markdown grezzo**: visualizza il Markdown grezzo, e ti permette di copiarlo manualmente e di incollarlo direttamente dove vuoi. 
 
 ## Come avviare l'applicazione
 
