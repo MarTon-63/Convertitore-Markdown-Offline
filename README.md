@@ -18,16 +18,25 @@ Sono stati predisposti degli script automatici che gestiscono l'intero processo 
 Alla prima esecuzione, il sistema creerà automaticamente un ambiente virtuale isolato (`venv`) e installerà le librerie necessarie (richiede una connessione internet solo la primissima volta). 
 Il tuo browser si aprirà in automatico (di default all'indirizzo `http://localhost:8501`). Le volte successive l'avvio sarà quasi istantaneo e 100% offline.
 
+### Passaggi preliminari (per tutti gli utenti)
+
+1. Scarica questa applicazione cliccando sul pulsante verde **"<> Code"** in alto in questa pagina e selezionando **"Download ZIP"**.
+2. Estrai il file ZIP appena scaricato in una posizione a tua scelta sul tuo computer (ad esempio, sul Desktop).
+3. Apri la cartella appena estratta (probabilmente si chiamerà `Convertitore-Markdown-Offline-main`).
+
 ### Per utenti Windows
 
 1. Assicurati di avere **Python** installato sul tuo computer.
-2. Fai doppio clic sul file `run.bat` presente in questa cartella.
+2. All'interno della cartella appena estratta, fai doppio clic sul file `run.bat`.
+3. Si aprirà il Terminale, che scaricherà le librerie necessarie e creerà in automatico l'ambiente isolato (la cartella `venv`). Questa operazione può richiedere qualche minuto, ma avviene solo la primissima volta.
+4. Al termine del processo, l'applicazione si aprirà da sola nel tuo browser. (Se il Terminale dovesse mettersi in pausa, premi semplicemente Invio).
 
 ### Per utenti macOS
 
-1. Assicurati di avere **Python 3** installato sul tuo Mac.
-2. Apri il Terminale, scrivi `chmod +x`  (con lo spazio finale), trascina il file `run_mac.command` nel Terminale e premi Invio. (Questo serve solo la prima volta per dare i permessi di esecuzione).
-3. Da questo momento in poi, ti basterà fare doppio clic sul file `run_mac.command` per avviare l'app.
+1. Assicurati di avere Python 3 installato sul tuo Mac.
+2. All'interno della cartella appena estratta, individua il file `run_mac.command`.
+3. Apri il Terminale, scrivi `chmod +x ` (con lo spazio finale), trascina il file `run_mac.command` nel Terminale e premi Invio. (Questo serve solo la prima volta per dare i permessi di esecuzione).
+4. Da questo momento in poi, ti basterà fare doppio clic sul file `run_mac.command` per avviare l'app.
 
 ## Crediti e Autore
 
