@@ -1,0 +1,5 @@
+streamlit
+markitdown
+pyperclip
+streamlit-quill
+markdownify
