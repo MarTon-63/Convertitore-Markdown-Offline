@@ -22,7 +22,7 @@ Il tuo browser si aprirà in automatico (di default all'indirizzo `http://localh
 
 1. Scarica questa applicazione cliccando sul pulsante verde **"<> Code"** in alto in questa pagina e selezionando **"Download ZIP"**.
 2. Estrai il file ZIP appena scaricato in una posizione a tua scelta sul tuo computer (ad esempio, sul Desktop).
-3. Apri la cartella appena estratta (probabilmente si chiamerà `Convertitore-Markdown-Offline-main`).
+3. Apri la cartella appena estratta (si chiamerà `Convertitore-Markdown-Offline-main`).
 
 ### Per utenti Windows
 
